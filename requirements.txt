@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+numpy
+psycopg2-binary
+mage-ai[postgres]
+sshtunnel
