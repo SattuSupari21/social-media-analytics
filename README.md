@@ -11,7 +11,7 @@ This project analyzes social media post performance across platforms, content ty
 - **Notebooks**: Jupyter (for EDA and feature engineering)
 
 ## ERD Schema
-!(erd-schema)[https://raw.githubusercontent.com/SattuSupari21/social-media-analytics/refs/heads/main/docs/erd_schema.png]
+![erd-schema](https://raw.githubusercontent.com/SattuSupari21/social-media-analytics/refs/heads/main/docs/erd_schema.png)
 
 ## 📌 Dataset Description
 
