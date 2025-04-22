@@ -46,7 +46,7 @@ This project analyzes social media post performance across platforms, content ty
 
 1. Clone the repo
 ```
-git clone https://github.com/your-username/social-media-analytics.git
+git clone https://github.com/SattuSupari21/social-media-analytics.git
 cd social-media-analytics
 ```
 2. Install dependencies
